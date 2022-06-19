@@ -693,5 +693,5 @@
         translation_id: "Yang Memiliki Mutlak sifat Maha Sabar",
         translation_en: "The Patient"
     }
-]
+  ]
 }
